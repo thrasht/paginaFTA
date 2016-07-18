@@ -1,3 +1,5 @@
+#Simulación de una página de ventas
+
 -----------------------------------------------------------------
 |	Nombre del proyecto: Página FTA				|
 |	Alumno: Eduardo Montes Hernández			|
